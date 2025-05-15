@@ -1,0 +1,6 @@
+.not-found .mdl-layout__content {
+  background-image: url(../images/404.svg);
+}
+.not-found .mdl-layout__content .mdl-cell {
+  margin: 8px;
+}/*# sourceMappingURL=404.css.map */
